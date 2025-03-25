@@ -114,4 +114,4 @@
         Copyright &copy; 2025 UC, College of Science and Technology
     </footer>
 </body>
-</html>
+

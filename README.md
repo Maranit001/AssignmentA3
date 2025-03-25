@@ -113,5 +113,5 @@
         <img src="A2 image/UC.jpg" width="50" height="50" alt="UC Logo">
         Copyright &copy; 2025 UC, College of Science and Technology
     </footer>
-</body>
+
 

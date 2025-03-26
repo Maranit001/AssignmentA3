@@ -40,9 +40,7 @@
         </marquee>
     </h1>
 
-    <img src="image/1.jpg" alt="Image 1" style="width:490px;height:350px;">
-    <img src="image/2.jpg" alt="Image 2" style="width:490px;height:350px;">
-    <img src="image/3.jpg" alt="Image 3" style="width:490px;height:350px;">
+    <img src="image/1.jpg" alt="Image 1" style="width:490px;height:350px;"> <img src="image/2.jpg" alt="Image 2" style="width:490px;height:350px;"> <img src="image/3.jpg" alt="Image 3" style="width:490px;height:350px;">
 
     <p>
         Welcome to the College of Science and Technology at The University of Cambodia. If you wish to pursue an AA or BA degree in one of our study programs, register now or visit our campus. 
